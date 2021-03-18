@@ -141,6 +141,19 @@ body > .container {
   text-transform: uppercase;
 }
 
+.subtitleProject {
+  display: block;
+  font-size: 12px;
+  margin: 0 auto;
+  margin-left: 5vw;
+
+  font-family: 'Lato';
+  color: rgb(75, 95, 75);
+  font-size: 22px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
 
 .subtitleContact {
   display: block;

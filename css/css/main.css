@@ -73,6 +73,13 @@ body {
 	pading-bottom: 20px;
 }
 
+.pull-right {
+  float: right;
+  font-weight: 300;
+  color: rgb(70, 70, 70);
+  font-style: italic;
+}
+
 .proj{
 	height: 250px;
 }
